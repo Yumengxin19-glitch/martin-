@@ -1,0 +1,9 @@
+{
+  "sentences": {
+    "s1791044370550a0wl": "./audio/sentence-001.mp3"
+  },
+  "words": {
+    "martin": "./audio/word-martin.mp3",
+    "matin": "./audio/word-matin.mp3"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "video": "PASTE_YOUR_VIDEO_DIRECT_URL_HERE",
+  "provider": "Cloudflare R2 / any public HTTPS video host",
+  "note": "Use a direct HTTPS URL to the MP4 file. The URL must support browser video playback and HTTP range requests."
+}
